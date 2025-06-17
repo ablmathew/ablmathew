@@ -1,9 +1,10 @@
 # 💫 About Me:
 Student @ GEC Idukki<br>Btech IT<br>
-<span style="color: #00FF00;">Ethical Hacker</span> |
-  <span style="color: #87CEEB;">Full-stack</span> <span style="color: #FF0000;">DEV</span> |
-  <span style="color: #DA70D6;">UI-UX Designer</span> |
-  <span style="color: #FFA500;">Blogger</span><br>
+[![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-00FF00?style=for-the-badge)]
+[![Full-stack](https://img.shields.io/badge/Full--stack-87CEEB?style=for-the-badge)]
+[![DEV](https://img.shields.io/badge/DEV-FF0000?style=for-the-badge)]
+[![UI-UX Designer](https://img.shields.io/badge/UI--UX_Designer-FF69B4?style=for-the-badge)]
+[![Blogger](https://img.shields.io/badge/Blogger-FFA500?style=for-the-badge)](https://ablmathew.blogspot.com/)<br>
 Vibes makes me High .🔋<br>Living the Present 
 
 
