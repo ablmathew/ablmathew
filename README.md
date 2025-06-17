@@ -1,5 +1,10 @@
 # 💫 About Me:
-Student @ GEC Idukki<br>Btech IT<br>Ethical Hacker |Full-stack DEV | UI-UX Designer | Blogger<br><br>Vibes makes me High .🔋<br>Living the Present 
+Student @ GEC Idukki<br>Btech IT<br>
+<span style="color: #00FF00;">Ethical Hacker</span> |
+  <span style="color: #87CEEB;">Full-stack</span> <span style="color: #FF0000;">DEV</span> |
+  <span style="color: #DA70D6;">UI-UX Designer</span> |
+  <span style="color: #FFA500;">Blogger</span><br>
+Vibes makes me High .🔋<br>Living the Present 
 
 
 ## 🌐 Socials:
