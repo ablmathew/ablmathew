@@ -1,14 +1,15 @@
-# 💫 About Me:
+# 💫 whoami:
 Student @ GEC Idukki<br>Btech IT<br>
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-00FF00?style=for-the-badge)
-![Full-stack](https://img.shields.io/badge/Full--stack-87CEEB?style=for-the-badge)
-![DEV](https://img.shields.io/badge/DEV-FF0000?style=for-the-badge)
-![UI-UX Designer](https://img.shields.io/badge/UI--UX_Designer-FF69B4?style=for-the-badge)
-![Blogger](https://img.shields.io/badge/Blogger-FFA500?style=for-the-badge)<br>
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-000000?style=for-the-badge&color=00FF00)
+![Full-stack](https://img.shields.io/badge/Full--stack-000000?style=for-the-badge&color=87CEEB)
+![DEV](https://img.shields.io/badge/DEV-000000?style=for-the-badge&color=FF0000)
+![UI-UX Designer](https://img.shields.io/badge/UI--UX_Designer-000000?style=for-the-badge&color=7B2CBF)
+![Blogger](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&color=FFA500)
+<br>
 Vibes makes me High .🔋<br>Living the Present 
 
 
-## 🌐 Socials:
+## 🌐 FindMe:
 
 [![Hack The Box](https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=Hack-The-Box&logoColor=9FEF00)](https://app.hackthebox.com/HTB-A1DFEFE8CA)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/imablyo)
