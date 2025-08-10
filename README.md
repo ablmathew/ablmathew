@@ -1,7 +1,6 @@
 # 💫 whoami:
 Student @ GEC Idukki<br>Btech IT<br>
 ![Cyber Enthusiast](https://img.shields.io/badge/Cyber_Enthusiast-000000?style=for-the-badge&color=00008B)
-![Full-stack](https://img.shields.io/badge/Full--stack-000000?style=for-the-badge&color=87CEEB)
 ![DEV](https://img.shields.io/badge/DEV-000000?style=for-the-badge&color=FF0000)
 ![UI-UX Designer](https://img.shields.io/badge/UI--UX_Designer-000000?style=for-the-badge&color=7B2CBF)
 ![Blogger](https://img.shields.io/badge/Blogger-000000?style=for-the-badge&color=FFA500)
